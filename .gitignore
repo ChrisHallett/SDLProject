@@ -36,3 +36,6 @@ SDLEngineProject/.vs/SDLEngineProject/v15/ipch/SDLENGINEPROJECT-e6d39d9/SDLENGIN
 SDLEngineProject/.vs/SDLEngineProject/v15/Browse.VC.db
 SDLEngineProject/.vs/SDLEngineProject/v15/Browse.VC.opendb
 SDL_core_files/
+*.opendb
+*.lastbuildstate
+SDL2TestProject/.vs/SDL2TestProject/v15/Browse.VC.db
