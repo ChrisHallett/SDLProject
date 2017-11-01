@@ -32,7 +32,6 @@
 *.app
 
 
-SDL_core_files/
 *.opendb
 *.lastbuildstate
 SDL2TestProject/.vs/SDL2TestProject/v15/Browse.VC.db
